@@ -8,7 +8,7 @@ Good Day! I'm Jaehan, I wanna be a Passionate Infra or Devops Engineer.
 ## 🗓️ Activity 
 | **Type** | **Date** | **Contents** | **Org.** | **Etc.** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **Education** | 2018. 03 ~ 2024. 02(expected) | Computer Science and Engineering | **Pusan National Univ.** | - |
+| **Education** | 2018. 03 ~ 2024. 02 | Computer Science and Engineering | **Pusan National Univ.** | - |
 | **Research activities** | 2022. 08 ~ 2023. 09 | 학부연구생 | **Pusan National Univ. SE Lab** | - |
 | **External activities** | 2023. 03 ~ 2023. 07 | Vendor-Neutral IT Club | **CloudClub 3rd** | - |
 | **External activities** | 2023. 07 ~ 2023. 10 | 오픈소스 컨트리뷰션 아카데미 - Terraform on Naver Cloud 멘티 | **OSSCA** | [상세](https://dawn-red-a29.notion.site/OSS-42ad4b75f5814483a24cf8e162fcc9de?pvs=4) |
