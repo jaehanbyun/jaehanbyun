@@ -22,14 +22,5 @@ Good Day! I'm Jaehan, I wanna be a Passionate Devops Engineer.
 [<img alt="alt text" width="150px" src="https://github.com/user-attachments/assets/a8c6b70e-561c-4aaa-8b37-c5e2952b69d5" />](https://www.credly.com/badges/02077c67-d080-4187-ad01-2d9e85fce59d/public_url)
 [<img alt="alt text" width="150px" src="https://github.com/user-attachments/assets/572d13e9-d952-482e-af2e-78dfb7b64789" />](https://www.credly.com/badges/880ecad7-1af6-40a4-9f88-9ede4312ac9c/public_url)
 
-
-
-
-
 ### Other Certifications
 - TOEIC Speaking: IH(Intermediate High)
-
-## :bookmark: BOJ Rank
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=awbrg789)](https://solved.ac/awbrg789)
-
