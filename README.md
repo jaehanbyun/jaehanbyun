@@ -5,7 +5,7 @@ Good Day! I'm Jaehan, I wanna be a Passionate Devops Engineer.
 🌱 I'm studying cloud and open source tools for Infra and Devops culture.  
 👯 I love networking with people in the community.  
 
-## 🗓️ Activity 
+## Activity 
 | **Type** | **Date** | **Contents** | **Org.** |
 |:------:|:---------------:|:--------:|:--------:|
 | **Education** | 2018.03 ~ 2024.02 | Computer Science and Engineering | **Pusan National Univ.** | 
@@ -14,7 +14,16 @@ Good Day! I'm Jaehan, I wanna be a Passionate Devops Engineer.
 | **External activities** | 2023.07 ~ 2023.10 | [OSSCA - Terraform on NCloud](https://dawn-red-a29.notion.site/OSS-42ad4b75f5814483a24cf8e162fcc9de?pvs=4) | **OSSCA** | [상세](https://dawn-red-a29.notion.site/OSS-42ad4b75f5814483a24cf8e162fcc9de?pvs=4) |
 | **Contribution** | 2024.11 ~ Current | ArgoProj/ArgoCD Member | **[Argo Project](https://github.com/argoproj)** | 
 
-## 🪪 Certifications
+## Open-Source contributions
+
+- [ArgoCD](https://github.com/argoproj/argo-cd/pulls?q=is%3Apr+author%3Ajaehanbyun)
+- [terraform-provider-ncloud](https://github.com/NaverCloudPlatform/terraform-provider-ncloud/pulls?q=is%3Apr+author%3Ajaehanbyun)
+- [inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget/pulls?q=is%3Apr+author%3Ajaehanbyun)
+- [Cilium](https://github.com/cilium/cilium/pulls?q=is%3Apr+author%3Ajaehanbyun)
+- [Kubernetes](https://github.com/prometheus-operator/prometheus-operator/pulls?q=is%3Apr+author%3Ajaehanbyun)
+- [pixie-io](https://github.com/pixie-io/docs.px.dev/pulls?q=is%3Apr+author%3Ajaehanbyun)
+
+## Certifications
 
 ### Engineering Certifications
 [<img alt="alt_text" width="150px" src="https://user-images.githubusercontent.com/30142314/173233128-57b9591a-e8d0-4132-8422-941f92276ee3.png" />](https://www.credly.com/badges/d4bde08b-7ca9-4feb-b397-8fc6046e319d/public_url) 
