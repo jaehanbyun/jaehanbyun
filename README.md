@@ -9,10 +9,11 @@ Good Day! I'm Jaehan, I wanna be a Passionate Devops Engineer.
 | **Type** | **Date** | **Contents** | **Org.** |
 |:------:|:---------------:|:--------:|:--------:|
 | **Education** | 2018.03 ~ 2024.02 | Computer Science and Engineering | **Pusan National Univ.** | 
-| **Research activities** | 2022.08 ~ 2023.09 | Research Student | **Pusan National Univ. SE Lab** | 
-| **External activities** | 2023.03 ~ 2023.07 | Vendor-Neutral IT Club | **CloudClub 3rd** | 
-| **External activities** | 2023.07 ~ 2023.10 | [OSSCA - Terraform on NCloud](https://dawn-red-a29.notion.site/OSS-42ad4b75f5814483a24cf8e162fcc9de?pvs=4) | **OSSCA** | [상세](https://dawn-red-a29.notion.site/OSS-42ad4b75f5814483a24cf8e162fcc9de?pvs=4) |
+| **Research activity** | 2022.08 ~ 2023.09 | Research Student | **Pusan National Univ. SE Lab** | 
+| **External activity** | 2023.03 ~ 2023.07 | Vendor-Neutral IT Club | **CloudClub 3rd** | 
+| **External activity** | 2023.07 ~ 2023.10 | [OSSCA - Terraform on NCloud Project](https://dawn-red-a29.notion.site/OSS-42ad4b75f5814483a24cf8e162fcc9de?pvs=4) | **OSSCA** |
 | **Contribution** | 2024.11 ~ Current | ArgoProj/ArgoCD Member | **[Argo Project](https://github.com/argoproj)** | 
+| **External activity** | 2025.08 ~ 2025.11 | OSSCA - ArgoCD Project Lead Mentee | **OSSCA** |
 
 ## Open-Source contributions
 
