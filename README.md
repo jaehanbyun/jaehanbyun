@@ -18,13 +18,13 @@ Good Day! I'm Jaehan, I wanna be a Passionate Devops Engineer.
 ## Open-Source contributions
 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd/pulls?q=is%3Apr+author%3Ajaehanbyun)
-- [terraform-provider-ncloud](https://github.com/NaverCloudPlatform/terraform-provider-ncloud/pulls?q=is%3Apr+author%3Ajaehanbyun)
-- [terraform-provider-vsphere](https://github.com/vmware/terraform-provider-vsphere/pulls?q=is%3Apr+author%3Ajaehanbyun)
+- [NaverCloudPlatform/terraform-provider-ncloud](https://github.com/NaverCloudPlatform/terraform-provider-ncloud/pulls?q=is%3Apr+author%3Ajaehanbyun)
+- [vmware/terraform-provider-vsphere](https://github.com/vmware/terraform-provider-vsphere/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [cilium/cilium](https://github.com/cilium/cilium/pulls?q=is%3Apr+author%3Ajaehanbyun)
-- [inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget/pulls?q=is%3Apr+author%3Ajaehanbyun)
-- [pixie-io](https://github.com/pixie-io/docs.px.dev/pulls?q=is%3Apr+author%3Ajaehanbyun)
+- [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget/pulls?q=is%3Apr+author%3Ajaehanbyun)
+- [pixie-io/docs.px.dev](https://github.com/pixie-io/docs.px.dev/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [opencost/opencost-website](https://github.com/opencost/opencost-website/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io/pulls?q=is%3Apr+author%3Ajaehanbyun)
 
