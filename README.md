@@ -29,6 +29,7 @@ Good Day! I'm Jaehan, I wanna be a Passionate Devops Engineer.
 - [pixie-io/docs.px.dev](https://github.com/pixie-io/docs.px.dev/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [opencost/opencost-website](https://github.com/opencost/opencost-website/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io/pulls?q=is%3Apr+author%3Ajaehanbyun)
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib/pulls?q=is%3Apr+author%3Ajaehanbyun)
 
 ### CNCF
 [![DevStats Card](https://devstats.me/?username=jaehanbyun)](https://github.com/tico88612/devstats-card)
