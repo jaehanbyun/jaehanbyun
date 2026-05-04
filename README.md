@@ -1,19 +1,13 @@
 ## Hi there, I'm Jaehan 👋
 
-Good Day! I'm Jaehan, I wanna be a Passionate Devops Engineer.
-
-🌱 I'm studying cloud and open source tools for Infra and Devops culture.  
-👯 I love networking with people in the community.  
+Good Day! I'm Jaehan, I wanna become a super generalist in the software and infra world.
 
 ## Activity 
+
 | **Type** | **Date** | **Contents** | **Org.** |
 |:------:|:---------------:|:--------:|:--------:|
-| **External activity** | 2025.08 ~ 2025.11 | OSSCA - ArgoCD Project Lead Mentee | **OSSCA** |
-| **Contribution** | 2024.11 ~ Current | ArgoProj/ArgoCD Member | **[Argo Project](https://github.com/argoproj)** | 
-| **External activity** | 2023.07 ~ 2023.10 | [OSSCA - Terraform on NCloud Project](https://dawn-red-a29.notion.site/OSS-42ad4b75f5814483a24cf8e162fcc9de?pvs=4) | **OSSCA** |
-| **External activity** | 2023.03 ~ 2023.07 | Vendor-Neutral IT Club | **CloudClub 3rd** | 
-| **Research activity** | 2022.08 ~ 2023.09 | Research Student | **Pusan National Univ. SE Lab** | 
-| **Education** | 2018.03 ~ 2024.02 | Computer Science and Engineering | **Pusan National Univ.** | 
+| **Contribution** | 2024.11 ~ Present | Argo CD Maintainer / Member | **[Argo Project](https://github.com/argoproj)** |
+| **Education** | 2018.03 ~ 2024.02 | B.S. in Computer Science and Engineering | **Pusan National Univ.** |
 
 ## Open-Source contributions
 
