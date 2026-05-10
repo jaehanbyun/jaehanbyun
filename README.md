@@ -32,6 +32,11 @@ Good Day! I'm Jaehan, I wanna become a super generalist in the software and infr
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [goharbor/website](https://github.com/goharbor/website/pulls?q=is%3Apr+author%3Ajaehanbyun)
 
+### OpenDev / Gerrit (Non-GitHub)
+- [openstack/skyline-console](https://review.opendev.org/q/project:openstack/skyline-console+owner:jaehanbyun)
+  - [Change 987804: Set browser title from current page](https://review.opendev.org/c/openstack/skyline-console/+/987804)
+  - [Launchpad Bug #2151848](https://bugs.launchpad.net/skyline-console/+bug/2151848)
+
 ### CNCF
 [![DevStats Card](https://devstats.me/?username=jaehanbyun)](https://github.com/tico88612/devstats-card)
 
