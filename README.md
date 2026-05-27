@@ -28,6 +28,7 @@ Good Day! I'm Jaehan, I wanna become a super generalist in the software and infr
 - [pixie-io/docs.px.dev](https://github.com/pixie-io/docs.px.dev/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [opencost/opencost-website](https://github.com/opencost/opencost-website/pulls?q=is%3Apr+author%3Ajaehanbyun)
+- [nexu-io/open-design](https://github.com/nexu-io/open-design/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [goharbor/website](https://github.com/goharbor/website/pulls?q=is%3Apr+author%3Ajaehanbyun)
