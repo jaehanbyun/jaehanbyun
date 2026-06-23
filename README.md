@@ -13,6 +13,7 @@ Good Day! I'm Jaehan, I wanna become a super generalist in the software and infr
 
 ### ALL
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd/pulls?q=is%3Apr+author%3Ajaehanbyun)
+- [cirros-dev/cirros](https://github.com/cirros-dev/cirros/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [ClickHouse/clickhouse-docs](https://github.com/ClickHouse/clickhouse-docs/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [eunomia-bpf/eunomia.dev](https://github.com/eunomia-bpf/eunomia.dev/pulls?q=is%3Apr+author%3Ajaehanbyun)
