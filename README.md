@@ -19,7 +19,7 @@ Good Day! I'm Jaehan, I wanna become a super generalist in the software and infr
 - [ClickHouse/clickhouse-docs](https://github.com/ClickHouse/clickhouse-docs/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [eunomia-bpf/eunomia.dev](https://github.com/eunomia-bpf/eunomia.dev/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [goharbor/website](https://github.com/goharbor/website/pulls?q=is%3Apr+author%3Ajaehanbyun)
-- [grafana/grafana](https://github.com/grafana/grafana/pulls?q=is%3Apr+author%3Ajaehanbyun)
+- [grafana/grafana](https://github.com/grafana/grafana/issues?q=involves%3Ajaehanbyun)
 - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Ajaehanbyun)
 - [kubernetes/website](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Ajaehanbyun)
