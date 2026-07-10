@@ -39,6 +39,8 @@ Good Day! I'm Jaehan, I wanna become a super generalist in the software and infr
 - [openstack/skyline-console](https://review.opendev.org/q/project:openstack/skyline-console+owner:jaehanbyun)
   - [Change 987804: Set browser title from current page](https://review.opendev.org/c/openstack/skyline-console/+/987804)
   - [Launchpad Bug #2151848](https://bugs.launchpad.net/skyline-console/+bug/2151848)
+- [openstack/kolla-ansible](https://review.opendev.org/q/project:openstack/kolla-ansible+owner:jaehanbyun)
+  - [Change 996740: Standardise globals.yml section headings](https://review.opendev.org/c/openstack/kolla-ansible/+/996740)
 
 ### CNCF
 [![DevStats Card](https://devstats.me/?username=jaehanbyun)](https://github.com/tico88612/devstats-card)
